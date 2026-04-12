@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ying LING | Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ying LING"
 description              : &description "Data Science Student at SUSTech"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,14 @@ repository               : "Spiritswin/spiritswin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "head.png"
+  name             : "Ying LING"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shenzhen, China"
+  employer         : "SUSTech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "spiritsswin@gmail.com" 
 
   # Academic websites
   academia         : # URL
