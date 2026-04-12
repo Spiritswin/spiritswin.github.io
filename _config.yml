@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ying LING"
-description              : &description "Data Science Student at SUSTech"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Data Science Undergraduate"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://spiritswin.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,10 +23,10 @@ repository               : "Spiritswin/spiritswin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "head.png"
+  avatar           : "head.jpg"
   name             : "Ying LING"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Shenzhen, China"
   employer         : "SUSTech"
   uri              : # URL
