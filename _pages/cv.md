@@ -18,7 +18,7 @@ I am an undergraduate majoring in Data Science at the Southern University of Sci
 ## Education
 
 * **Southern University of Science and Technology (SUSTech)**  
-  B.S. in Data Science, 2021 - Present
+  B.S. in Data Science, 2023 - Present
 
-* **Shenzhen High School**  
-  2018 - 2021
+* **Shenzhen Middle School**  
+  2019 - 2023
