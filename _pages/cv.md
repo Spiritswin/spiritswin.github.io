@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am an undergraduate student majoring in Data Science at Southern University of Science and Technology (SUSTech). I am currently fortunate to work in Prof. Linyi Yang's research group at SUSTech, where under his guidance, I have developed a strong interest in Large Language Models (LLMs).
+I am an undergraduate majoring in Data Science at the Southern University of Science and Technology (SUSTech). Advised by Prof. Linyi Yang (SUSTech), my current research explores Large Language Models (LLMs).
 
 ## Honors and Awards
 
