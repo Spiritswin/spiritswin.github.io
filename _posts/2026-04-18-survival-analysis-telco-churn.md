@@ -23,17 +23,12 @@ tags:
 Two filters applied:
 
 1. **Contract = "Month-to-month"** only
-    
 2. **InternetService ≠ "No"** (internet subscribers only)
-    
-    | Stage | Rows | % of Original |
-    
-    |-------|------|---------------|
-    
-    | Bronze (raw) | 7,043 | 100.0% |
-    
-    | Silver (filtered) | **3,351** | 47.6% |
-    
+
+| Stage | Rows | % of Original |
+|-------|------|---------------|
+| Bronze (raw) | 7,043 | 100.0% |
+| Silver (filtered) | **3,351** | 47.6% |
 
 ### 1.3 Churn Distribution (Silver Table)
 
