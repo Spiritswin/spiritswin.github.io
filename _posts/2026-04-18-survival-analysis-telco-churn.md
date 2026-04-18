@@ -27,7 +27,7 @@ Two filters applied:
 2. **InternetService ≠ "No"** (internet subscribers only)
 
 | Stage | Rows | % of Original |
-|-------|------|---------------|
+|---|---|---|
 | Bronze (raw) | 7,043 | 100.0% |
 | Silver (filtered) | **3,351** | 47.6% |
 
