@@ -21,4 +21,4 @@ I am an undergraduate majoring in Data Science at the Southern University of Sci
   B.S. in Data Science, 2023 - Present
 
 * **Shenzhen Middle School**  
-  2019 - 2023
+  2020 - 2023
