@@ -6,6 +6,7 @@ tags:
   - survival analysis
   - data science
   - customer churn
+excerpt: 'A comprehensive survival analysis of telco customer churn using Kaplan-Meier estimator, Cox PH model, and AFT model.'
 ---
 
 ## 1. Data Preparation
